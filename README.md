@@ -1,7 +1,8 @@
 # Active Learning Methods for Highthroughput Data
 
 
-We implemented three models here: (1) Uncertainty sampling, (2) Query-by-Committee and (2) Deep Reinforcement based Active Learning model. <br>
+We implemented three models here: (1) Uncertainty sampling, (2) Query-by-Committee and (2) Deep Reinforcement based Active Learning model. 
+
 The codes for each of them were written separately, and therefore are implemented separately. In the end, the results for each of them are consolidated and the plotting.ipynb file can be run.
 
 Both uncertainty sampling and QBC codes can be implemented directly on the terminal without any changes to the code. It takes around an hour for each of them to complete 10 simulations.
